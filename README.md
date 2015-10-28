@@ -1,6 +1,8 @@
 Simon's Stamp Collection App
 ---
 
-# About Simon
+# About Simon's Stamps
+
+Simon has been collecting stamps since 1981 and has a wide variety of expensive and exotic stamps.
 
 New York Time raves about Simon's stamp collection.
