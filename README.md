@@ -3,4 +3,4 @@ Simon's Stamp Collection App
 
 # About Simon
 
-Stuff about Simon's Stamps here ...
+New York Time raves about Simon's stamp collection.
